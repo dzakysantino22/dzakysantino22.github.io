@@ -659,7 +659,7 @@ button{
     padding-bottom: 50px;
 }
 .portfolio-item{
-    width: calc((100% / 3) - 50px);
+    width: calc(60%);
     margin: 0 15px 30px;
 }
 .portfolio-item-thumbnail{
